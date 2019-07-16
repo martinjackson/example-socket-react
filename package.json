@@ -1,0 +1,28 @@
+{
+  "name": "example-socket-react",
+  "version": "1.0.0",
+  "description": "an Example of a React/Nodejs app with React Hooks and socket.io messages, getting Dark Skies API data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinjackson/example-socket-react.git"
+  },
+  "keywords": [
+    "React",
+    "NodeJS",
+    "Socket.io",
+    "React-Hooks",
+    "Dark",
+    "Skies",
+    "API"
+  ],
+  "author": "Martin A. Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinjackson/example-socket-react/issues"
+  },
+  "homepage": "https://github.com/martinjackson/example-socket-react#readme"
+}
