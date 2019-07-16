@@ -52,6 +52,17 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
+## Articles that lead to this example
+[React Hooks: Managing Web Sockets with useEffect and useState by Ross Bulat](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec)
+[How to Fetch Data with React Hooks in a Minute by Connor Wilson](https://medium.com/@cwlsn/how-to-fetch-data-with-react-hooks-in-a-minute-e0f9a15a44d6)
+[How to fetch data with React Hooks? by rwieruch](https://www.robinwieruch.de/react-hooks-fetch-data/)
+
+## Future notes
+This example uses a 90 second timer on the NodeJS side to simulate the data flow if a [Webhook](https://en.wikipedia.org/wiki/Webhook) were is used.
+For a real Webhook, This application would need a server that could receive an HTTP Post with data updates.
+Not to hard to do if there is a NodeJS server behind the webpage.
+
+
 ## 📝 License
 
 Copyright © 2019 [Martin A. Jackson](https://github.com/martinjackson).<br />
